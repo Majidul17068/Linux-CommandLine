@@ -1,1 +1,3 @@
 # Linux-CommandLine
+
+If you are an average Linux user you need some command line for various famous linux destro......
